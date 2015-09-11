@@ -1,7 +1,4 @@
 # investigacionIntel
 Esta es una investigacion de desarrollo
 
-Esta INvestigacion essta hecha por Ivan Pérez Vázque
-
-as
-sz
+Esta INvestigacion essta hecha por Ivan Pérez Vázquez
